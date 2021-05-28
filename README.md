@@ -1,2 +1,2 @@
-To view a live demo, [click here](http://nakibulhassan.me/).
+[Live Demo](http://nakibulhassan.me/).
 
