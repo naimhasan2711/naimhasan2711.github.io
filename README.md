@@ -1,2 +1,2 @@
-[Live Demo](http://nakibulhassan.me/).
+[Live Demo](http://nakibulhassan.me/)
 
